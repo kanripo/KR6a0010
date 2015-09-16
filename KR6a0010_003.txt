@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:27:57.816543
+#+DATE: 2015-08-30 19:27:59.055320
 #+TITLE: 白衣金幢二婆羅門緣起經
 #+PROPERTY: CBETA_ID T01n0010
 #+PROPERTY: ID KR6a0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 010
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6a0010_T_000-0216b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0010_T_003-0220a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說白衣金幢二婆羅門緣起經》¶
+《佛說白衣金幢二婆羅門緣起經》¶
 卷下¶
 ¶
-西天譯經三藏朝奉大夫試光祿卿¶
-傳法大師賜紫沙門臣施護等奉　詔譯¶
+西天譯經三藏朝奉大夫試光祿卿傳法大師賜紫沙門臣施護等奉　詔譯¶
 
 「復次，白衣！前人又於第三時中，往取香稻，
 <pb:KR6a0010_T_003-0220b>¶
