@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 白衣金幢二婆羅門緣起經
+#+DATE: 2015-08-30 19:27:58.030629
+#+PROPERTY: JUAN 0
