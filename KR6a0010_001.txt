@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:27:58.271596
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:19
 #+TITLE: 白衣金幢二婆羅門緣起經
 #+PROPERTY: CBETA_ID T01n0010
 #+PROPERTY: ID KR6a0010
