@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:27:57.786488
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:19
 #+TITLE: 白衣金幢二婆羅門緣起經
 #+PROPERTY: CBETA_ID T01n0010
 #+PROPERTY: ID KR6a0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 010
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6a0010_T_000-0216b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0010_T_002-0218b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說白衣金幢二婆羅門緣起經》¶
+《佛說白衣金幢二婆羅門緣起經》¶
 卷中¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
